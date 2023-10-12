@@ -1,0 +1,3 @@
+# VideoEditor-Application
+
+Development Stage.
